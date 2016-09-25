@@ -1,0 +1,28 @@
+[==========] Running 10 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 10 tests from C_Vector
+[ RUN      ] C_Vector.CreateVector_and_DestroyVector
+[       OK ] C_Vector.CreateVector_and_DestroyVector (0 ms)
+[ RUN      ] C_Vector.Size_and_Resize
+[       OK ] C_Vector.Size_and_Resize (24 ms)
+[ RUN      ] C_Vector.Capacity_and_Reserve
+[       OK ] C_Vector.Capacity_and_Reserve (0 ms)
+[ RUN      ] C_Vector.Get_and_Set
+[       OK ] C_Vector.Get_and_Set (0 ms)
+[ RUN      ] C_Vector.Clear_and_Empty
+[       OK ] C_Vector.Clear_and_Empty (0 ms)
+[ RUN      ] C_Vector.Assignment
+[       OK ] C_Vector.Assignment (0 ms)
+[ RUN      ] C_Vector.Insert_and_PushBack
+[       OK ] C_Vector.Insert_and_PushBack (0 ms)
+[ RUN      ] C_Vector.Erase_and_PopBack
+[       OK ] C_Vector.Erase_and_PopBack (0 ms)
+[ RUN      ] C_Vector.Front_and_Back
+[       OK ] C_Vector.Front_and_Back (0 ms)
+[ RUN      ] C_Vector.CopyVector_and_DataPointer
+[       OK ] C_Vector.CopyVector_and_DataPointer (0 ms)
+[----------] 10 tests from C_Vector (24 ms total)
+
+[----------] Global test environment tear-down
+[==========] 10 tests from 1 test case ran. (24 ms total)
+[  PASSED  ] 10 tests.
