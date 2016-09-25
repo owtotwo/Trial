@@ -1,3 +1,3 @@
 # Trial #
 
-A lightweight C Unit Test framework.
+The Micro Online Judge for my students
