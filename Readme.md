@@ -1,3 +1,3 @@
 # Trial #
 
-The Micro Online Judge for my students
+The Micro Online Judge.
